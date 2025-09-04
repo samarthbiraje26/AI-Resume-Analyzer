@@ -8,6 +8,16 @@ An AI-powered web application that automatically analyzes resumes and extracts k
 - Scalable backend to handle multiple resumes.
 - Extendable design for job-role matching and scoring.
 
+🛠️ Tech Stack :
+- React → UI library with reusable components & virtual DOM for fast, dynamic apps.
+- React Router v7 → Routing with nested routes, loaders/actions, error boundaries, SSR.
+- Puter.com → Open-source internet OS for secure, fast, extensible personal cloud.
+- Puter.js → Client-side SDK with serverless auth, storage, DB, and AI (GPT, OCR, etc.).
+- Tailwind CSS → Utility-first CSS framework for rapid, customizable UI design.
+- TypeScript → JavaScript superset with static typing for better tooling & reliability.
+- Vite → Lightning-fast dev server & build tool with HMR and Rollup bundling.
+- Zustand → Lightweight state management with hooks & minimal boilerplate.
+
 ⚙️ Installation :
 1. Clone the repository:
 git clone https://github.com/samarthbiraje26/AI-Resume-Analyzer.git
