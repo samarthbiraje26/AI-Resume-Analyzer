@@ -1,3 +1,5 @@
+![Image](https://github.com/user-attachments/assets/1eef2c52-f8d2-43f1-8815-48b6730fdef5)
+
 An AI-powered web application that automatically analyzes resumes and extracts key insights to simplify the recruitment process. It uses Natural Language Processing (NLP) and Machine Learning (ML) to parse resumes, identify important details, and present them in a structured and user-friendly format.
 
 🚀 Features :
